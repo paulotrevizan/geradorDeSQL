@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/11 19:54:49.681.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\GeradorDeSQL\Principal.pas</Transaction>
+    <Transaction>2019/12/11 19:54:49.681.dfm,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.dfm=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\GeradorDeSQL\Principal.dfm</Transaction>
+    <Transaction>2019/12/11 19:54:58.782.dproj,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\GeradorDeSQL\GeradorDeSQL.dproj</Transaction>
+    <Transaction>2019/12/11 19:55:23.932.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\GeradorDeSQL\Unit1.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\GeradorDeSQL\GeradorDeSQL.pas</Transaction>
+    <Transaction>2019/12/11 20:10:22.408.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\GeradorDeSQL\GeradorDeSQL.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
